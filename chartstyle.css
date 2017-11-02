@@ -1,0 +1,40 @@
+
+
+div {
+		height: 202px;
+		width:  202px;
+	}
+
+#bigtable {
+
+		height: 800px;
+		width: 800px;
+		padding: 100px;
+	}
+#redslice { 
+	 	display:inline-block;
+	 	background-color:red;
+	 	border-top-left-radius: 200px;
+	 	}
+#yellowslice {
+		display:inline-block;
+		background-color:yellow;
+		border-top-right-radius: 200px;
+		}
+
+#blueslice {
+		display:inline-block;
+		background-color:blue;
+		border-bottom-left-radius: 200px;
+		}	
+#greenslice {
+		display:inline-block;
+		background-color:green;
+		border-bottom-right-radius: 200px;
+		}
+
+#wrapper {
+		width: 550px;
+		height: 540px;
+		border-radius: 25px;
+	}	

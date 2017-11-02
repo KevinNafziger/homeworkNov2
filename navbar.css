@@ -1,0 +1,98 @@
+#wrapper {
+		height:95px;
+		width: 1390px;
+		background-color:black;
+		display: inline-block;
+} 
+#redlogo {
+		 display:inline-block;
+		 height: 94px;
+		 width: 99px;
+		 padding-right: 15px
+}
+#logo   {
+		 display:inline-block;			
+		 height: 94px;
+		 width : 100px;	
+		 	
+}		
+.whitetextlink	{
+		display:inline-block;	
+		 height: 90px;
+		 width: 210px;
+		 background-color: black;
+		 padding:
+}
+.whitetextmenu {
+		padding-left:15px;
+		height:70px;
+		width:110px;
+		vertical-align: top;
+		display:inline-block;
+		color:white;
+		background-color: black;
+		text-align: right;
+}
+
+.whitetextmenuright {
+		width:230px;
+		display:inline-block;
+		color:white;
+		background-color: black;
+		vertical-align: text-top;
+		text-align: right;
+		margin-left: 80%;
+}
+.whitetextmenurightsmall {
+		width:120px;
+		color:white;
+		vertical-align: text-top;
+		text-align: right;
+		margin-left: 85%;
+}		
+.whitetextmenuleft{
+			
+		height:70px;
+		width:110px;
+		vertical-align: top;
+		display:inline-block;
+		color:white;
+		background-color: black;
+		text-align: right;
+}	
+#searchbar {
+
+		padding-top:20px;
+		height:30px;
+		width:180px;
+}
+#searchbarimg {
+		padding-top: 20px;
+		height:30px;
+		width:50px;
+}		
+
+#leftmenuitems {
+		display:inline-block;
+		height:95px;
+		width:500px;
+}			
+#rightmenuitems {
+		display:inline-block;
+		height:95px;
+		width:550px;
+}
+.rightmenuflat {
+		text-align: right;
+		display:inline-block;
+		height:95px;
+		width:390px;
+}
+#middlemenuitems{
+		padding-left: 40px;
+		display:inline-block;
+		height:93px;
+		width:290px;
+		vertical-align: top;
+		text-align: right;
+}
